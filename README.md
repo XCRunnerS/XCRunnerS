@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Github: https://github.com/XCRunnerS
+Discord: @XCRunnerS#7188
+Email: xcrs.buisness@gmail.com
+
+Working on: Learing github, reading through the hypixel api
+Learing: Web development basics/Java basics
+
+Hypixel/Java/Minecraft Enthusiast
+DMs on all platforms are open, but I reccomend discord for quickest contact
+
 <!--
 **XCRunnerS/XCRunnerS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
