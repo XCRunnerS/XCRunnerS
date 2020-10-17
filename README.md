@@ -10,6 +10,12 @@ Learing: Web development basics/Java basics
 Hypixel/Java/Minecraft Enthusiast
 DMs on all platforms are open, but I reccomend discord for quickest contact
 
+Hypixel Achivements:
+Level 200
+Pit Prestige 15
+Skywars level 18
+Socked Member
+3k Blitz kills
 <!--
 **XCRunnerS/XCRunnerS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
