@@ -1,7 +1,11 @@
 Github: https://github.com/XCRunnerS
+
 Discord: @XCRunnerS#7188
+
 Email: xcrs.buisness@gmail.com
+
 Youtube:https://www.youtube.com/channel/UCHgnbKrJAwJbnrFHa0TBNdQ
+
 
 Working on: Learing github, reading through the hypixel api
 
