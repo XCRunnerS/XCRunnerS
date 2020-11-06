@@ -7,12 +7,14 @@ Email: xcrs.buisness@gmail.com
 Youtube:https://www.youtube.com/channel/UCHgnbKrJAwJbnrFHa0TBNdQ
 
 
+
 Working on: Learing github, reading through the hypixel api
 
 Learing Web development /Java
 
 Hypixel/Java/Minecraft Enthusiast
 DMs on all platforms are open, but I reccomend discord for quickest contact
+
 
 
 Hypixel Achivements:
