@@ -4,7 +4,7 @@ Discord: @XCRunnerS#7188
 
 Email: xcrs.buisness@gmail.com
 
-Youtube:https://www.youtube.com/channel/UCHgnbKrJAwJbnrFHa0TBNdQ
+Youtube: https://www.youtube.com/channel/UCHgnbKrJAwJbnrFHa0TBNdQ
 
 
 
