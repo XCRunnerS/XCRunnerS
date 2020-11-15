@@ -6,7 +6,7 @@ Email: xcrs.buisness@gmail.com
 
 Youtube: https://www.youtube.com/channel/UCHgnbKrJAwJbnrFHa0TBNdQ
 
-
+Twitch: https://www.twitch.tv/XCRunnerS
 
 Working on: Learing github, reading through the hypixel api
 
