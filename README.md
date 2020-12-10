@@ -27,7 +27,9 @@ Pit Prestige 15
 
 Skywars level 20
 
-Socked Member
+Socked Guild and Discord member
+
+Bedwars level 200
 
 3k Blitz kills
 <!--
