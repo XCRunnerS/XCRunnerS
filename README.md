@@ -12,20 +12,20 @@ Twitter: https://twitter.com/XCRunnerS2
 
 Working on: Learing github, reading through the hypixel api
 
-Learing Web development /Java
+Learing Web development / Java / Digital arts!
 
-Hypixel/Java/Minecraft Enthusiast
+Hypixel/Java/Minecraft/Tech/Digital Art Enthusiast!
 DMs on all platforms are open, but I reccomend discord for quickest contact
 
 
 
 Hypixel Achivements:
 
-Level 205
+Level 210
 
 Pit Prestige 15
 
-Skywars level 19
+Skywars level 20
 
 Socked Member
 
