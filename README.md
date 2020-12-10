@@ -10,6 +10,8 @@ Twitch: https://www.twitch.tv/XCRunnerS
 
 Twitter: https://twitter.com/XCRunnerS2
 
+Itch: https://xcrunners.itch.io/
+
 Working on: Learing github, reading through the hypixel api
 
 Learing Web development / Java / Digital arts!
