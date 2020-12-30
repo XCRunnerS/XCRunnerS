@@ -8,7 +8,7 @@ Youtube: https://www.youtube.com/channel/UCHgnbKrJAwJbnrFHa0TBNdQ
 
 Twitch: https://www.twitch.tv/XCRunnerS
 
-Twitter: https://twitter.com/XCRunnerS2
+Twitter: https://twitter.com/XCRunnerStudios
 
 Itch: https://xcrunners.itch.io/
 
