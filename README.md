@@ -1,3 +1,9 @@
+----------------------------------------------------------------------
+
+Medias
+
+----------------------------------------------------------------------
+
 Github: https://github.com/XCRunnerS
 
 Discord: @XCRunnerS#7188
@@ -12,12 +18,17 @@ Twitter: https://twitter.com/XCRunnerStudios
 
 Itch: https://xcrunners.itch.io/
 
-Working on: Learing github, reading through the hypixel api
+---------------------------------------------------------------------
 
-Learing Web development / Java / Digital arts!
+Contact me: on discord (XCRunnerS#7188) my DMs are open!
+
+---------------------------------------------------------------------
+
+Working on: Learing github, Digital Art, Game Development, School
 
 Hypixel/Java/Minecraft/Tech/Digital Art Enthusiast!
-DMs on all platforms are open, but I reccomend discord for quickest contact
+
+DMs on all platforms are open, but I reccomend discord for quickest contact!
 
 
 
