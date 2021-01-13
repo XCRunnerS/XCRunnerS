@@ -32,7 +32,7 @@ DMs on all platforms are open, but I reccomend discord for quickest contact!
 
 
 
-Hypixel Achivements:
+Hypixel/Server Achivements: (these are Hypixel unless specified)
 
 Level 210
 
@@ -45,6 +45,8 @@ Socked Guild and Discord member
 Bedwars level 200
 
 3k Blitz kills
+
+[HIVE] 118000 bedwars points (account XCRS)
 <!--
 **XCRunnerS/XCRunnerS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
