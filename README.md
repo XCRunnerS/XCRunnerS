@@ -26,7 +26,7 @@ Contact me: on discord (XCRunnerS#7188) my DMs are open!
 
 Working on: Learing github, Digital Art, Game Development, School
 
-Hypixel/Java/Minecraft/Tech/Digital Art Enthusiast!
+Hypixel/Minecraft/Tech/Digital Art Enthusiast!
 
 DMs on all platforms are open, but I reccomend discord for quickest contact!
 
@@ -34,15 +34,15 @@ DMs on all platforms are open, but I reccomend discord for quickest contact!
 
 Hypixel/Server Achivements: (these are Hypixel unless specified)
 
-Level 210
+Level 215+
 
-Pit Prestige 15
+Pit Prestige 15+
 
-Skywars level 20
+Skywars level 20+
 
-Socked Guild and Discord member
+Active Socked Guild and Discord member
 
-Bedwars level 200
+Bedwars level 200+
 
 3k Blitz kills
 
