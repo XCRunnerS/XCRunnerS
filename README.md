@@ -40,7 +40,7 @@ Pit Prestige 15+
 
 Skywars level 20+
 
-Active Socked Guild and Discord member
+(Former) Socked Guild Member and Active discord member
 
 Bedwars level 200+
 
