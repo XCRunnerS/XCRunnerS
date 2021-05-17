@@ -1,29 +1,28 @@
-----------------------------------------------------------------------
+## Media
 
-Medias
+- Github: https://github.com/XCRunnerS
 
-----------------------------------------------------------------------
+- Discord: @XCRunnerS#7188
 
-Github: https://github.com/XCRunnerS
+- Email: xcrs.buisness@gmail.com
 
-Discord: @XCRunnerS#7188
+- Youtube: https://www.youtube.com/channel/UCHgnbKrJAwJbnrFHa0TBNdQ
 
-Email: xcrs.buisness@gmail.com
+- Twitch: https://www.twitch.tv/XCRunnerS
 
-Youtube: https://www.youtube.com/channel/UCHgnbKrJAwJbnrFHa0TBNdQ
+- Twitter: https://twitter.com/XCRunnerStudios
 
-Twitch: https://www.twitch.tv/XCRunnerS
+- Itch: https://xcrunners.itch.io/
 
-Twitter: https://twitter.com/XCRunnerStudios
+---
 
-Itch: https://xcrunners.itch.io/
+## Contact 
 
----------------------------------------------------------------------
+- preferred: `discord (XCRunnerS#7188)`
+- xcrs.buisness@gmail.com
+- @XCRunnerStudios on twitter
 
-Contact me: on discord (XCRunnerS#7188) my DMs are open!
-
----------------------------------------------------------------------
-
+---
 Working on: Learing github, Digital Art, Game Development, School
 
 Hypixel/Minecraft/Tech/Digital Art Enthusiast!
@@ -34,19 +33,19 @@ DMs on all platforms are open, but I reccomend discord for quickest contact!
 
 Hypixel/Server Achivements: (these are Hypixel unless specified)
 
-Level 215+
+- Level 215+
 
-Pit Prestige 15+
+- Pit Prestige 15+
 
-Skywars level 20+
+- Skywars level 20+
 
-(Former) Socked Guild Member and Active discord member
+- (Former) Socked Guild Member and Active discord member
 
-Bedwars level 200+
+- Bedwars level 200+
 
-3k Blitz kills
+- 3k Blitz kills
 
-[HIVE] 118000 bedwars points (account XCRS)
+- [HIVE] 118000 bedwars points (account XCRS)
 <!--
 **XCRunnerS/XCRunnerS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
