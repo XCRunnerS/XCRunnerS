@@ -22,7 +22,7 @@
 
 ## Hypixel/Server Achivements: (these are Hypixel unless specified)
 
-- Level 215+
+- Level 220+
 
 - Pit Prestige 15+
 
@@ -34,8 +34,13 @@
 
 - 3k Blitz kills
 
+- 4500+ Duels wins
+
 - [HIVE] 118000 bedwars points (account XCRS)
 
+## Other Info
+
+- Pronouns: `he/him/they`
 
 <!--
 **XCRunnerS/XCRunnerS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
