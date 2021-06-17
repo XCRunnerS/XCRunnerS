@@ -22,7 +22,7 @@
 
 ## Hypixel/Server Achivements: (these are Hypixel unless specified)
 
-- Level 220+
+- Level 230+
 
 - Pit Prestige 15+
 
@@ -30,11 +30,11 @@
 
 - (Former) Socked Guild Member and Active discord member
 
-- Bedwars level 200+
+- Bedwars level 225+
 
 - 3k Blitz kills
 
-- 4500+ Duels wins
+- 5000+ Duels wins
 
 - [HIVE] 118000 bedwars points (account XCRS)
 
