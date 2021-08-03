@@ -28,7 +28,7 @@
 
 - Skywars level 20+
 
-- (Former) Socked Guild Member and Active discord member
+- (Former) Socked Guild Member
 
 - Bedwars level 225+
 
