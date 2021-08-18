@@ -22,7 +22,7 @@
 
 ## Hypixel/Server Achivements: (these are Hypixel unless specified)
 
-- Level 230+
+- Level 240+
 
 - Pit Prestige 15+
 
@@ -30,7 +30,7 @@
 
 - (Former) Socked Guild Member
 
-- Bedwars level 225+
+- Bedwars level 250+
 
 - 3k Blitz kills
 
