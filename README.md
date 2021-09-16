@@ -6,7 +6,7 @@
 
 - Email: xcrs.buisness@gmail.com
 
-- Youtube: https://www.youtube.com/channel/UCHgnbKrJAwJbnrFHa0TBNdQ
+- Youtube: https://www.youtube.com/XCRunnerS
 
 - Twitch: https://www.twitch.tv/XCRunnerS
 
