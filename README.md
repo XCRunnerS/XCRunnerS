@@ -1,59 +1,46 @@
-## Media
+# XCRunnerS
 
-- Github: https://github.com/XCRunnerS
+Hi! :) I'm XCRunnerS! I like Coding, Digital art, and videogames!
 
-- Discord: @XCRunnerS#7188
+## Links
 
-- Email: xcrs.buisness@gmail.com
+Site Name | Link | Username
+-|-|-
+Github | https://github.com/XCRunnerS | XCRunnerS
+Discord | - | XCRunnerS#7188
+Email | - | xcrs.buisness@gmail.com
+Youtube | https://www.youtube.com/XCRunnerS | XCRunnerS
+Twitch | https://www.twitch.tv/XCRunnerS | XCRunnerS
+Twitter | https://twitter.com/XCRunnerStudios | @XCRunnerStudios
+ Itch | https://xcrunners.itch.io/ | XCRunnerS
+ Tiktok | https://www.tiktok.com/@xcrunnerss | @xcrunnerss
 
-- Youtube: https://www.youtube.com/XCRunnerS
+## Contact
 
-- Twitch: https://www.twitch.tv/XCRunnerS
+I prefer to be contacted via discord :)
 
-- Twitter: https://twitter.com/XCRunnerStudios
+*`discord (XCRunnerS#7188)`
 
-- Itch: https://xcrunners.itch.io/
+ xcrs.buisness@gmail.com
 
-## Contact 
+ @XCRunnerStudios on twitter
 
-- preferred: `discord (XCRunnerS#7188)`
-- xcrs.buisness@gmail.com
-- @XCRunnerStudios on twitter
+## Creations
 
-## Hypixel/Server Achivements: (these are Hypixel unless specified)
+WIP
 
-- Level 240+
+## In-Game Stats
 
-- Pit Prestige 15+
-
-- Skywars level 20+
-
-- (Former) Socked Guild Member
-
-- Bedwars level 250+
-
-- 3k Blitz kills
-
-- 5000+ Duels wins
-
-- [HIVE] 118000 bedwars points (account XCRS)
+Name | Stat | Server
+-|-|-
+Network Level | 245+ | Hypixel
+Pit | Prestige 15+ | Hypixel
+Skywars | Level 20+ | Hypixel
+Bedwars | Level 250+ | Hypixel
+Bedwars Points | 118000 | Hive (VoidCats)
+Duels | 5000+ Wins | Hypixel
+Blitz | 3000+ Kills | Hypixel
 
 ## Other Info
 
 - Pronouns: `he/him/they`
-
-<!--
-**XCRunnerS/XCRunnerS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Working on: Learing github, Digital Art, Game Development, School
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
