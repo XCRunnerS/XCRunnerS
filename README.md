@@ -1,4 +1,5 @@
 # XCRunnerS
+![stop sign](https://i.imgur.com/94EaUoW.png)
 
 Hi! :) I'm XCRunnerS! I like Coding, Digital art, and videogames!
 
