@@ -14,7 +14,7 @@ Youtube | https://www.youtube.com/XCRunnerS | XCRunnerS
 Twitch | https://www.twitch.tv/XCRunnerS | XCRunnerS
 Twitter | https://twitter.com/XCRunnerStudios | @XCRunnerStudios
  Itch | https://xcrunners.itch.io/ | XCRunnerS
- Tiktok | https://www.tiktok.com/@xcrunnerss | @xcrunnerss
+ Tiktok | https://www.tiktok.com/@xcrunnersam | @xcrunnersam
 
 ## Contact
 
