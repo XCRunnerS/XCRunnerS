@@ -8,7 +8,8 @@ Hi! :) I'm XCRunnerS! I like Coding, Digital art, and videogames!
 Site Name | Link | Username
 -|-|-
 Github | https://github.com/XCRunnerS | XCRunnerS
-Discord | - | XCRunnerS#7188
+Discord @ | - | XCRunnerS#7188
+Discord Server | https://discord.gg/zs3ExrF | XCRunnerS#7188
 Email | - | xcrs.buisness@gmail.com
 Youtube | https://www.youtube.com/XCRunnerS | XCRunnerS
 Twitch | https://www.twitch.tv/XCRunnerS | XCRunnerS
@@ -26,19 +27,22 @@ I prefer to be contacted via discord :)
 
  @XCRunnerStudios on twitter
 
-## Creations
+## About
 
-WIP
+AGE: 19
+
+Timezone: GMT-5 (Chicago's Timezone)
+
 
 ## In-Game Stats
 
-Name | Stat | Server
+Game | Stat | Server
 -|-|-
-Network Level | 245+ | Hypixel
+Network Level | 250+ | Hypixel
 Pit | Prestige 15+ | Hypixel
 Skywars | Level 20+ | Hypixel
 Bedwars | Level 250+ | Hypixel
-Bedwars Points | 118000 | Hive (VoidCats)
+Bedwars Points | 115000+ | Hive (VoidCats)
 Duels | 5000+ Wins | Hypixel
 Blitz | 3000+ Kills | Hypixel
 
