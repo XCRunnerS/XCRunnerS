@@ -13,7 +13,7 @@ Discord Server | https://discord.gg/zs3ExrF | XCRunnerS#7188
 Email | - | xcrs.buisness@gmail.com
 Youtube | https://www.youtube.com/XCRunnerS | XCRunnerS
 Twitch | https://www.twitch.tv/XCRunnerS | XCRunnerS
-Twitter | https://twitter.com/XCRunnerStudios | @XCRunnerStudios
+Twitter | https://twitter.com/XCRunnerStudios | @XCRunnerSam
  Itch | https://xcrunners.itch.io/ | XCRunnerS
  Tiktok | https://www.tiktok.com/@xcrunnersam | @xcrunnersam
 
