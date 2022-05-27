@@ -1,11 +1,13 @@
-# XCRunnerS
+# [XCRunnerS](https://xcrunners.github.io/)
 ![stop sign](https://i.imgur.com/94EaUoW.png)
 
 Hi! :) I'm XCRunnerS! I like Coding, Digital art, and videogames!
 
-## [Socials](https://xcrunners.github.io/)
+## [Links](https://xcrunners.github.io/)
 
 [XCRunnerS' Texturepacks](https://mega.nz/folder/XuhmzAAQ#9Lngclv7Oub3lpnE8qKSNQ)
+
+This Section is mostly a ghost town! go to my [Socials Page](https://xcrunners.github.io/)
 
 ## Contact
 
