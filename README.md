@@ -3,19 +3,8 @@
 
 Hi! :) I'm XCRunnerS! I like Coding, Digital art, and videogames!
 
-## Links
-
-Site Name | Link | Username
--|-|-
-Github | https://github.com/XCRunnerS | XCRunnerS
-Discord @ | - | XCRunnerS#7188
-Discord Server | https://discord.gg/zs3ExrF | XCRunnerS#7188
-Email | - | xcrs.buisness@gmail.com
-Youtube | https://www.youtube.com/XCRunnerS | XCRunnerS
-Twitch | https://www.twitch.tv/XCRunnerS | XCRunnerS
-Twitter | https://twitter.com/XCRunnerSam | @XCRunnerSam
-Itch | https://xcrunners.itch.io/ | XCRunnerS
-Tiktok | https://www.tiktok.com/@xcrunnersam | @xcrunnersam
+## All my Socials!
+[Socials LinK](https://xcrunners.github.io/)
 
 [XCRunnerS' Texturepacks](https://mega.nz/folder/XuhmzAAQ#9Lngclv7Oub3lpnE8qKSNQ)
 
@@ -24,10 +13,6 @@ Tiktok | https://www.tiktok.com/@xcrunnersam | @xcrunnersam
 I prefer to be contacted via discord :)
 
 *`discord (XCRunnerS#7188)`
-
- xcrs.buisness@gmail.com
-
- @XCRunnerStudios on twitter
 
 ## About
 
