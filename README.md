@@ -3,8 +3,7 @@
 
 Hi! :) I'm XCRunnerS! I like Coding, Digital art, and videogames!
 
-## All my Socials!
-[Socials LinK](https://xcrunners.github.io/)
+## [Socials](https://xcrunners.github.io/)
 
 [XCRunnerS' Texturepacks](https://mega.nz/folder/XuhmzAAQ#9Lngclv7Oub3lpnE8qKSNQ)
 
