@@ -1,6 +1,6 @@
 # XCRunnerS
 
-## [![XCRunnerS](https://raw.githubusercontent.com/XCRunnerS/XCRunnerS/master/XCRunnerBackround.png)](https://xcrunners.github.io/)
+## [![XCRunnerS](https://raw.githubusercontent.com/XCRunnerS/XCRunnerS/master/banner_thin.png)](https://xcrunners.github.io/)
 
 Hi! :) I'm XCRunnerS! I like Coding, Digital art, and videogames!
 
