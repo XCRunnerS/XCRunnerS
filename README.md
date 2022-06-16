@@ -1,26 +1,30 @@
-# [XCRunnerS](https://xcrunners.github.io/)
-![stop sign](https://i.imgur.com/94EaUoW.png)
+# XCRunnerS
+
+## [![XCRunnerS](https://raw.githubusercontent.com/XCRunnerS/XCRunnerS/master/XCRunnerBackround.png)](https://xcrunners.github.io/)
 
 Hi! :) I'm XCRunnerS! I like Coding, Digital art, and videogames!
 
-## [Links](https://xcrunners.github.io/)
-
-[XCRunnerS' Texturepacks](https://mega.nz/folder/XuhmzAAQ#9Lngclv7Oub3lpnE8qKSNQ)
-
-This Section is mostly a ghost town! go to my [Socials Page](https://xcrunners.github.io/)
+## Links
+Project + URL | Info
+-|-
+[XCRunnerS's Texturepacks](https://mega.nz/folder/XuhmzAAQ#9Lngclv7Oub3lpnE8qKSNQ) | Original or edited packs for minecraft java
+[Socials Page](https://xcrunners.github.io/) | Hub for my social media
+[Project Directories Page] (unfinished) | Not here yet <3
 
 ## Contact
 
-I prefer to be contacted via discord :)
+I prefer to be contacted via **discord** :)
 
-*`discord (XCRunnerS#7188)`
+### ***`discord (XCRunnerS#7188)`**
 
 ## About
 
-AGE: 19
-
-Timezone: GMT-5 (Chicago's Timezone)
-
+Info | Data
+-|-
+AGE|19
+Timezone| GMT-5 (Chicago)
+Pronouns| He/Him, They/Them
+Is Canada Real| No
 
 ## In-Game Stats
 
@@ -30,10 +34,6 @@ Network Level | 250+ | Hypixel
 Pit | Prestige 15+ | Hypixel
 Skywars | Level 20+ | Hypixel
 Bedwars | Level 250+ | Hypixel
-Bedwars Points | 115000+ | Hive (VoidCats)
+Bedwars Points | 115000+ | [Hive](https://namemc.com/profile/VoidCats.2)
 Duels | 5000+ Wins | Hypixel
 Blitz | 3000+ Kills | Hypixel
-
-## Other Info
-
-- Pronouns: `he/him/they`
