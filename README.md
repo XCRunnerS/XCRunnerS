@@ -21,19 +21,6 @@ I prefer to be contacted via **discord** :)
 
 Info | Data
 -|-
-AGE|19
+AGE|20
 Timezone| GMT-5 (Chicago)
 Pronouns| He/Him, They/Them
-Is Canada Real| No
-
-## Minecraft Stats
-
-Game | Stat | Server
--|-|-
-Network Level | 250+ | Hypixel
-Pit | Prestige 15+ | Hypixel
-Skywars | Level 20+ | Hypixel
-Bedwars | Level 250+ | Hypixel
-Duels | 5000+ Wins | Hypixel
-Blitz | 3000+ Kills | Hypixel
-Bedwars Points | 115000+ | [Hive](https://namemc.com/profile/VoidCats.2)
