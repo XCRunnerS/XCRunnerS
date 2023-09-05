@@ -15,7 +15,7 @@ Project + URL | Info
 
 I prefer to be contacted via **discord** :)
 
-### ***`discord (XCRunnerS#7188)`**
+### ***`discord (@XCRunnerS#0)`**
 
 ## About Me
 
