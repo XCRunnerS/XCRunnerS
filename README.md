@@ -21,6 +21,4 @@ I prefer to be contacted via **discord** :)
 
 Info | Data
 -|-
-AGE|20
-Timezone| GMT-5 (Chicago)
-Pronouns| He/Him, They/Them
+Timezone| GMT-5
